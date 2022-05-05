@@ -10,11 +10,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 <center>
   <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-1.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-  <br></br>
+
   <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-2.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-  <br></br>
+
   <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-3.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-  <br></br>
+
 </center>
 
 ### Qual Notes
