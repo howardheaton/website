@@ -20,5 +20,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Qual Notes
 
 
-[Basic](https://raw.githubusercontent.com/howardheaton/website/main/notes/basic-notes.pdf), [Numerical Analysis](https://raw.githubusercontent.com/howardheaton/website/main/notes/num-anal-notes.pdf), and [Applied Differential Equations](https://raw.githubusercontent.com/howardheaton/website/main/notes/ade-qual.pdf) for UCLA Math PhD Program
+[Basic](https://raw.githubusercontent.com/howardheaton/website/main/notes/basic-notes.pdf), [Numerical Analysis](https://raw.githubusercontent.com/howardheaton/website/main/notes/num-anal-notes.pdf), and [Applied Differential Equations](https://raw.githubusercontent.com/howardheaton/website/main/notes/ade-notes.pdf) for UCLA Math PhD Program
 
