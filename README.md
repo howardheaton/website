@@ -1,6 +1,6 @@
 ## Welcome
 
-This site is for directing traffic between my areas of work. 
+This site directs traffic to my areas of work. 
 
 
 ### [Typal Academy](https://typal.academy)
