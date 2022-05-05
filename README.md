@@ -2,9 +2,14 @@
 
 This site is for directing traffic between my areas of work. 
 
-[Link](url) and ![Image](src) 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### [Typal Academy](https://typal.academy)
+
+The beginner's guide to real analysis and optimization
+
+### [Typal Research](https://research.typal.llc)
+
+Research at the intersection of big data, optimization, and explainability
 
 ### Slackline
 
