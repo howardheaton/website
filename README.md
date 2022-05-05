@@ -8,13 +8,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Slackline
 
- 
-![slackline](https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-1.jpeg)
-
-![slackline](https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-2.jpeg)
-
-![slackline](https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-3.jpeg)
- 
+<p align="center">
+  <img width="200" src=https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-1.jpeg" alt="Slackline">
+  <img width="200" src=https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-2.jpeg" alt="Slackline">
+  <img width="200" src=https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-3.jpeg" alt="Slackline">
+</p>
 
 ### Qual Notes
 
