@@ -31,4 +31,4 @@ For the UCLA Math PhD program, I sketched up notes on the
   <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-3.jpeg" alt="Howard Slacklining" style="width:300px;"/>
 </center>
 
-
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
