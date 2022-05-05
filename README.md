@@ -11,15 +11,18 @@ The beginner's guide to real analysis and optimization
 
 Research at the intersection of big data, optimization, and explainability
 
+### [Google Scholar](https://scholar.google.com/citations?user=blvaFx4AAAAJ)
+
+Overview of my academic work
+
 ### Slackline
 
 <center>
   <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-1.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-
+  <br>
   <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-2.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-
+  <br>
   <img src="https://raw.githubusercontent.com/howardheaton/website/main/images/slackline-3.jpeg" alt="Howard Slacklining" style="width:300px;"/>
-
 </center>
 
 ### Qual Notes
